@@ -1,5 +1,5 @@
 //React elements and hooks imports
-import { FunctionComponent, useState } from 'react'
+import { FunctionComponent } from 'react'
 
 //Components imports
 import { createStyles, Container } from '@mantine/core';

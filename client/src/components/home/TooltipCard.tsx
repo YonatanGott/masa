@@ -2,7 +2,7 @@
 import { FunctionComponent } from 'react'
 
 //Components imports
-import { createStyles, Card, Text, Button, Group, Center } from '@mantine/core';
+import { createStyles, Card, Text, Button, Center } from '@mantine/core';
 import { IconTruckDelivery } from '@tabler/icons';
 
 //Styling elements imports
